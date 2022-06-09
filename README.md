@@ -32,3 +32,5 @@ Las opciones que aparecen ahi hacen exactamente lo que dicen. Veremos que pasa s
 
 Prueben las otras opciones para ver el funcionamiento del programa. Intenten ver que pasa si creamos otro usuario y revisamos los posts
 
+(3): Salir: Esta opcion permite salir del programa
+
